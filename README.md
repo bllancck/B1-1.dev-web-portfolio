@@ -1,4 +1,4 @@
-# Interactive Web Portfolio
+# Dev Web Portfolio
 
 프레임워크·UI 라이브러리 없이 순수 HTML, CSS, JavaScript로 만든 반응형 웹 포트폴리오입니다.
 사용자 이벤트 → 상태 변경 → DOM 업데이트 흐름과 GitHub API의 로딩/성공/에러/빈 상태 처리를 중심으로 구현했습니다.
@@ -7,7 +7,7 @@
 
 ## 배포 URL
 
-- [https://yejibaek12.github.io/B4-1.interactive_web_portfolio/](https://yejibaek12.github.io/B4-1.interactive_web_portfolio/)
+- [https://bllancck.github.io/B4-1.interactive_web_portfolio/](https://bllancck.github.io/B4-1.interactive_web_portfolio/)
 
 ---
 
