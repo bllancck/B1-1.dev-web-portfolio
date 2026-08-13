@@ -8,7 +8,7 @@
  * - Intersection Observer: threshold 0.2
  */
 
-const GITHUB_USERNAME = "yejibaek12";
+const GITHUB_USERNAME = "bllancck";
 const NAV_SCROLL_THRESHOLD = 60;
 const SCROLL_TOP_THRESHOLD = 300;
 const OBSERVER_THRESHOLD = 0.2;
