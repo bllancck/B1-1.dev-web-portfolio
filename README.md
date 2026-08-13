@@ -7,7 +7,7 @@
 
 ## 배포 URL
 
-- [https://bllancck.github.io/B4-1.interactive_web_portfolio/](https://bllancck.github.io/B4-1.interactive_web_portfolio/)
+- [https://bllancck.github.io/B4-1.dev-web-portfolio/](https://bllancck.github.io/B4-1.dev-web-portfolio/)
 
 ---
 
