@@ -32,7 +32,7 @@
 ## 프로젝트 구조
 
 ```
-B4-1.interactive_web_portfolio/
+B1-1.interactive_web_portfolio/
 ├── index.html       # 시맨틱 마크업
 ├── css/style.css    # 레이아웃·테마·반응형
 ├── js/main.js       # 이벤트·상태·API
